@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Theme",
+    "options": [
+      {
+        "key": "darkThemeBackgroundColor",
+        "value": "@android:color/black"
+      }
+    ]
+  }
+]
