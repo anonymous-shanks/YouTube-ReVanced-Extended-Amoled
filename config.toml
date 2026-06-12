@@ -1,4 +1,4 @@
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
+enable-magisk-update = true
 parallel-jobs = 1
 
 cli-source = "MorpheApp/morphe-cli"
@@ -8,7 +8,6 @@ cli-version = "dev"
 app-name = "YouTube"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-# version = "20.31.42"
 patches-source = "anddea/revanced-patches"
 patches-version = "dev"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
@@ -22,7 +21,6 @@ app-name = "YouTube Music"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 arch = "both"
-# version = "8.30.54"
 patches-source = "anddea/revanced-patches"
 patches-version = "dev"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
