@@ -1,6 +1,6 @@
 {
-  "version": "v8.51.51 (patches dev.12.mpp)",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/anonymous-shanks/YouTube-ReVanced-Extended-Amoled/releases/download/1/youtube-music-morphe-module-v8.51.51-arm64-v8a.zip",
+  "version": "v8.51.51 (patches dev.13.mpp)",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/anonymous-shanks/YouTube-ReVanced-Extended-Amoled/releases/download/2/youtube-music-morphe-module-v8.51.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/anonymous-shanks/YouTube-ReVanced-Extended-Amoled/update/build.md"
 }
