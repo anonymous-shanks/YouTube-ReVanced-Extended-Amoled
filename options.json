@@ -1,11 +1,14 @@
 [
   {
-    "name": "Theme",
-    "options": [
-      {
-        "key": "darkThemeBackgroundColor",
-        "value": "@android:color/black"
-      }
-    ]
+    "key": "darkThemeBackgroundColor",
+    "value": "#0F0F0F"
+  },
+  {
+    "key": "darkThemePrimaryColor",
+    "value": "#1C1C1C"
+  },
+  {
+    "key": "darkThemeAccentColor",
+    "value": "#CC0000"
   }
 ]
